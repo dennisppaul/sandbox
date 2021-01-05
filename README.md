@@ -7,4 +7,5 @@ a website is a dish best served cold.
 - [About](./about.md)
 - [Page](./page.md)
 - [Foobar](./foobar.md)
+- [Hello World](./index.html)
 - ...
